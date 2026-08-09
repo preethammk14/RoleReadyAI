@@ -1,0 +1,6 @@
+{
+  "name": "RoleReady AI",
+  "description": "An AI Career Platform by PMK. AI-powered career intelligence, country-localized market analytics, skill-gap analysis, and STAR resume rewrites.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
